@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Maiesties letter to the maior of Bristol together with an humble remonstrance and protestation to His Maiestie from the county of Nottingham.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B19030</idno><idno type="EEBO-CITATION">12146569</idno>
+  <idno type="VID">197106</idno>
+  <idno type="EEBO-PROQUEST">2264206273</idno>
+  
+            <idno type="STC">Wing C2413</idno>
+            <idno type="OCLC">12146569</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B19030)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197106)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 243:E93, no 8 or 242:E83, no 49)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Maiesties letter to the maior of Bristol together with an humble remonstrance and protestation to His Maiestie from the county of Nottingham.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield ...,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Also on Reel 242:E83, no. 49.</note>
+                  <note>This is a London counterfeit, but the documents may be genuine. -- cf. Madan.</note>
+                  <note>Received by Thomason 2 January 1643.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197106:1"/>
+            <p>HIS MAIESTIES LETTER To the MAIOR OF BRISTOL. Together with an humble Remonstrance AND <hi>PROTESTATION</hi> TO HIS <hi>MAIESTIE</hi> From the County of <hi>Nottingham.</hi>
+            </p>
+            <p>OXFORD, Printed by <hi>Leonard Lichfield,</hi> Printer to the Vniversity. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:197106:2"/>
+            <pb n="1" facs="tcp:197106:2"/>
+            <head>HIS MAIESTIES LETTER TO THE Maior of <hi>Bristol.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg> Doubt not but that you the Citizens of Bristol doe resent these many indignities offered unto Us, which Wee had rather forget then mention; did not the daily le<g ref="char:EOLhyphen"/>vying of forces, and prosecution of warre against Us force a condiscending in Us for the good of Our subjects, to make Our intentions knowne what the method of some hath beene, and whither it hath led and brought this Kingdome; all men see what Ours would have beene, if seasonably and timely apply'd unto, let all men judge: We have written enough of that: that which doth move Us now to signifie Our desires unto you, is to undeceive you from the faire blandishments and false pre<g ref="char:EOLhyphen"/>tences which are endeavoured to be imposed on you, as on o<g ref="char:EOLhyphen"/>ther Cities and Townes, who in stead of obedience, which is onely acceptable unto Kings, make rebellion the daily sacrifice which they offer unto Us in a hostile manner. But I doubt not but that you are as vigilant of Our person and safety, as We are carefull of your good and preservation: for albeit Wee
+<pb n="2" facs="tcp:197106:3"/>have beene tempted to high indignation, yet Wee had rather perswade then compell the affections of Our loyall subjects; and since such an urgent necessity lyes upon you, that you are forced to declare your selves my friends or foes, under a strange distraction of Us your King, and Our Parliament, I cannot conceive that the rebellious instigation of some malevolents to Our person, shall be powerfull to writhe and bend your incli<g ref="char:EOLhyphen"/>nations to oppose Me in standing as supporters of those ayery pillars that have led this nation into a wildernesse of rebellion. Can you finde more faire dealing then in the true candor of your King? Or are the plundering your houses, with all the characters written in blood by too many swords, better argu<g ref="char:EOLhyphen"/>ments to thrust you forward to destructions, then my words can be to stay the fury of an unlawfull groundlesse warre? Is misery better then a peaceable government? Upstart Sects more prevalent then the true Religion? and the Defender of the Faith of no higher esteeme then the confounders of all Christian piety? Wee should then thinke that there were no God, and beleeve with the new-found world of Atheists your King is to be forsaken and neglected even by the votes of Heaven. But all knowing men doe acknowledge Our power, and God hath confirm'd their judgements in adhering to Us in all fortunes, and will carry on all Our just designes, to the shame and terror of Our enemies. Wee therefore out of Our Royall love and care to this City, doe exhort you and all other Our good subjects, to stand fixed in their movings, and not to run contrary to Law, Loyalty, and Religion, in banding forces against Us, since the effusion of blood cannot bee imputed un<g ref="char:EOLhyphen"/>to Me, but to such voluntary causes as desire nothing but to see this Land converted into an Anarchy, deceiving the people with the false colours of Religion, whereof Wee are and will continue the principall defender, and therefore unblinde your
+<pb n="3" facs="tcp:197106:3"/>selves, and learne at last to see that God doth not suffer Princes though much injured, to be oppressed, for he in his own cause will be their vindicator. And therefore as you set a high price and estimation of Gods favour, and the favour of your Sove<g ref="char:EOLhyphen"/>raigne, let your hearts make a generall association to stand as you are bound in allegiance for your King, and hereof faile not, as you will answer it at your perils before the Tribunall of God; We are but his Vicegerent, yet offences committed a<g ref="char:EOLhyphen"/>gainst Us shall by his divine Justice be hereafter punished. But if Our present Letters doe worke you to a constant loyall obe<g ref="char:EOLhyphen"/>dience, you may expect heavens blessings and my favour, which shall never be wanting to all my true loving subjects.</p>
+         </div>
+         <div type="petition">
+            <pb n="4" facs="tcp:197106:4"/>
+            <head>THE HVMBLE REMONSTRANCE of the COVNTY of NOTINGHAM.</head>
+            <opener>SHEWETH,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat whereas in the late Printed Booke, Intituled A Declaration of the Lords and Commons of the six and twentieth of <hi>May</hi> (besides ma<g ref="char:EOLhyphen"/>ny Expressions which our Duty and Loyalty to your Majesty, forceth us to say a<gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to be used by Subjects, a power with<gap reason="illegible" resp="#keyers" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>d a<g ref="char:EOLhyphen"/>bove your Majesty, is challenged under the name of <hi>Both Hou<g ref="char:EOLhyphen"/>ses of Parliament.</hi>) That they may dispose of whatsoever be<g ref="char:EOLhyphen"/>longs to the Subject for the publique good (of which they are the only Judges) without your Majesties consent, and that the Subject is to bee bound by their Votes and Ordinances, though your Majesty agree not thereunto. That your Majesty hath no Negative Voyce and care, a person only trusted for the good of the Kingdome, and themselves to have a superinten<g ref="char:EOLhyphen"/>dency to see that trust discharged. That the Soveraigne power is in them, with diverse dangerous expressions of diminution from your Royall Person. All which is pretended to be said in discharge of the trust reposed in them by all the Subjects in
+<pb n="5" facs="tcp:197106:4"/>this Kingdome whom they represent. Wee Your Majesties most dutifull Subjects of this County, doe hold our selves bound in Duty and Conscience, to declare to Your Majesty, and to all the World, That as we do for our selves disavow the committing of any such trust unto them, So we do from our Soules, abhor the said Doctrine and Propositions: And do as well for the known Interest in the Lawes of the Land (to which we are born, as for our Allegiance to Your Majesty) protest against the same; and that we will alwaies defend Your Ma<g ref="char:EOLhyphen"/>jesties Person, and Obey Your Majesties Lawfull Commands, and acknowledge Your Majesties Supremacy, with our Lives and Fortunes. And we most humbly beseech Your Majesty to protect us in these Resolutions, &amp; not to suffer us to be Gover<g ref="char:EOLhyphen"/>ned, but by the known established Lawes of the Land, or to be oppressed by any arbitrary power whatsoever. We Your Ma<g ref="char:EOLhyphen"/>jesties Loyall Subjects being abundantly satisfied with Your Majesties Declaration of Your care of the Protestant Religion and property of the Subject, and of the Lawes of the Land, and of the just freedome of Parliament, especially, with that Royall expression of Your Majesty, That Youwould no longer looke for our Obedience, then you keepe those Promises, and doe conceive our selves bound, not only by our Oath of Alle<g ref="char:EOLhyphen"/>giance and Supremacy, but by the late Protestation, to run the utmost hazzard with our Lives and Fortunes in Defence of Your Majesties Person, Your Honour, and Your just Rites. Which we do again in the presence of Almighty God, and as we hope for his mercy (promise to do) against any power, and any false Interpretation whatsoever.</p>
+            <closer>
+               <signed>
+                  <hi>And we shall Pray,</hi> &amp;c.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
